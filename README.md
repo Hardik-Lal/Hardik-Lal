@@ -29,7 +29,7 @@ pronouns: he/him
 - 🔭 Building **Vitals** — an AI-powered chronic disease risk platform (91.6% ROC-AUC, don't ask how many hyperparameters I cried over)
 - 🤖 Also shipped **ResumeX** — an AI resume parser, because irony is my love language
 - 📚 Deep in DSA grind on TUF (binary search variants live rent-free in my head now)
-- ⚡ Fun fact: I write beginner-friendly Linux & Git notes on GitHub so future-me (and you) never have to Google the same thing twice
+- ⚡ Fun fact: I write beginner-friendly notes on GitHub so future-me (and you) never have to Google the same thing twice
 
 ---
 
